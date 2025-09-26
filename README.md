@@ -3,9 +3,6 @@
 </p>
 
 <!-- Trophy Section -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Parveshiiii&no-bg=true&no-frame=true&column=6&row=1&margin-w=10&theme=matrix" alt="Trophies" />
-</p>
 
 <h2 align="center"><b>〔 One of the best fine tuning guide avilable on internet 〕</b></h2>
 <p align="center">❝ One of the best fine tuning guide avilable on internet ❞</p>
